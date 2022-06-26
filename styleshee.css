@@ -1,0 +1,18 @@
+.invitacion {
+    display: flex;
+    width: 100%;
+    height: auto;
+    padding: 2rem;
+    margin: 4em;
+
+}
+.parrafo-invitacion {
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: auto;
+    padding: 2em;
+}
+.invitacion .espacioboton{
+    padding-top: 2em;
+}
