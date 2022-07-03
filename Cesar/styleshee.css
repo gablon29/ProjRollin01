@@ -1,18 +1,37 @@
-.invitacion {
+.flex-box{
     display: flex;
     width: 100%;
     height: auto;
-    padding: 2rem;
-    margin: 4em;
-
 }
-.parrafo-invitacion {
+.flex{
     align-items: center;
     justify-content: center;
+    margin: 1rem;
+}
+
+.container {
+    display: flex;
+    margin-top: 1rem;
     width: 100%;
     height: auto;
-    padding: 2em;
 }
-.invitacion .espacioboton{
-    padding-top: 2em;
+.WokiTitulo{
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: auto;
+    background-color: aqua;
+    padding: 1rem;
+    margin-left: 25%;
+}
+
+.invitacion{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+.parrafo-invitacion{
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
 }
